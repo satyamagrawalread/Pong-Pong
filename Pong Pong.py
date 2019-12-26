@@ -1,5 +1,4 @@
 import turtle
-import winsound
 
 #screen setup
 pc=turtle.Screen()
